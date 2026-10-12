@@ -6,4 +6,10 @@
     <string name="student_name_placeholder">Họ tên: —</string>
     <string name="class_name_placeholder">Lớp: —</string>
     <string name="gpa_placeholder">GPA: —</string>
+
+    <string name="gpa_input_hint">Nhập GPA mới (0–4)</string>
+    <string name="update_gpa">Cập nhật GPA</string>
+    <string name="edit_name">Chỉnh sửa tên</string>
+    <string name="reset_profile">Khôi phục</string>
+
 </resources>
