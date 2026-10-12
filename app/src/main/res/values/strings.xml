@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">testgithub1</string>
+
+    <string name="profile_title">HỒ SƠ SINH VIÊN</string>
+    <string name="student_id_placeholder">MSSV: —</string>
+    <string name="student_name_placeholder">Họ tên: —</string>
+    <string name="class_name_placeholder">Lớp: —</string>
+    <string name="gpa_placeholder">GPA: —</string>
 </resources>
